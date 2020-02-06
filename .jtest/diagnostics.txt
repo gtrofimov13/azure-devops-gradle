@@ -1,0 +1,672 @@
+Diagnostics file initialized on Wed Jan 08 16:57:31 PST 2020
+================================================================================================
+AVAILABLE BUNDLES AND SERVICES (114)
+================================================================================================
+Bundle [0]: org.apache.felix.framework, state: [8], version: 4.4.1
+Bundle [1]: org.apache.felix.scr, state: [32], version: 1.8.2
+Bundle [2]: com.parasoft.xtest.logging.api, state: [32], version: 10.4.3.20191114
+Bundle [3]: com.parasoft.xtest.services.api, state: [32], version: 10.4.3.20191114
+Bundle [4]: org.apache.felix.fileinstall, state: [2], version: 3.5.0
+Bundle [5]: com.esotericsoftware.minlog, state: [2], version: 1.2.0
+Bundle [6]: com.google.gson, state: [2], version: 2.2.4
+Bundle [7]: com.parasoft.jtest.analyzer, state: [2], version: 10.4.3.20191115
+Bundle [8]: com.parasoft.jtest.common.api, state: [2], version: 10.4.3.20191115
+Bundle [9]: com.parasoft.jtest.common.basic, state: [2], version: 10.4.3.20191115
+Bundle [10]: com.parasoft.jtest.common, state: [2], version: 10.4.3.20191115
+Bundle [11]: com.parasoft.jtest.configuration, state: [2], version: 10.4.3.20191115
+Bundle [12]: com.parasoft.jtest.context.api, state: [2], version: 10.4.3.20191115
+Bundle [13]: com.parasoft.jtest.context, state: [2], version: 10.4.3.20191115
+Bundle [14]: com.parasoft.jtest.controller.api, state: [2], version: 10.4.3.20191115
+Bundle [15]: com.parasoft.jtest.controller, state: [2], version: 10.4.3.20191115
+Bundle [16]: com.parasoft.jtest.data, state: [2], version: 10.4.3.20191115
+Bundle [17]: com.parasoft.jtest.database, state: [2], version: 10.4.3.20191115
+Bundle [18]: com.parasoft.jtest.duplremover, state: [2], version: 10.4.3.20191115
+Bundle [19]: com.parasoft.jtest.execution.coverage.bin, state: [2], version: 10.4.3.20191115
+Bundle [20]: com.parasoft.jtest.execution.coverage, state: [2], version: 10.4.3.20191115
+Bundle [21]: com.parasoft.jtest.execution.instrumentation.data.runtime, state: [2], version: 10.4.3.20191115
+Bundle [22]: com.parasoft.jtest.execution.instrumentation.data.static, state: [2], version: 10.4.3.20191115
+Bundle [23]: com.parasoft.jtest.execution.instrumentation.reporter.core, state: [2], version: 10.4.3.20191115
+Bundle [24]: com.parasoft.jtest.execution.instrumentation.util, state: [2], version: 10.4.3.20191115
+Bundle [25]: com.parasoft.jtest.execution.instrumentator, state: [2], version: 10.4.3.20191115
+Bundle [26]: com.parasoft.jtest.execution.runtime.api, state: [2], version: 10.4.3.20191115
+Bundle [27]: com.parasoft.jtest.execution.unittests, state: [2], version: 10.4.3.20191115
+Bundle [28]: com.parasoft.jtest.flowanalyzer, state: [2], version: 10.4.3.20191102B1673
+Bundle [29]: com.parasoft.jtest.language, state: [2], version: 10.4.3.20191102B1673
+Bundle [30]: com.parasoft.jtest.mlearning, state: [2], version: 10.4.3.20191115
+Bundle [31]: com.parasoft.jtest.parser.api, state: [2], version: 10.4.3.20191115
+Bundle [32]: com.parasoft.jtest.parser, state: [2], version: 10.4.3.20191115
+Bundle [33]: com.parasoft.jtest.reporter.text, state: [2], version: 10.4.3.20191115
+Bundle [34]: com.parasoft.jtest.scope, state: [2], version: 10.4.3.20191115
+Bundle [35]: com.parasoft.jtest.standards.api, state: [2], version: 10.4.3.20191115
+Bundle [36]: com.parasoft.jtest.standards.checkers.java, state: [2], version: 10.4.3.20191115
+Bundle [37]: com.parasoft.jtest.standards.checkers.prop, state: [2], version: 10.4.3.20191115
+Bundle [38]: com.parasoft.jtest.standards.checkers.rulewizard, state: [2], version: 10.4.3.20191115
+Bundle [39]: com.parasoft.jtest.standards.checkers.xml, state: [2], version: 10.4.3.20191115
+Bundle [40]: com.parasoft.jtest.standards.dupcode, state: [2], version: 10.4.3.20191115
+Bundle [41]: com.parasoft.jtest.standards.globals, state: [2], version: 10.4.3.20191115
+Bundle [42]: com.parasoft.jtest.standards.metrics.analyzer, state: [2], version: 10.4.3.20191115
+Bundle [43]: com.parasoft.jtest.standards.rules.prop, state: [2], version: 10.4.3.20191115
+Bundle [44]: com.parasoft.jtest.standards.rules.xml, state: [2], version: 10.4.3.20191115
+Bundle [45]: com.parasoft.jtest.standards.rules, state: [2], version: 10.4.3.20191115
+Bundle [46]: com.parasoft.jtest.standards, state: [2], version: 10.4.3.20191115
+Bundle [47]: com.parasoft.jtest.util, state: [2], version: 10.4.3.20191115
+Bundle [48]: com.parasoft.jtest.xtest, state: [2], version: 10.4.3.20191115
+Bundle [49]: com.parasoft.xtest.analyzers.api, state: [2], version: 10.4.3.20191114
+Bundle [50]: com.parasoft.xtest.authorship, state: [2], version: 10.4.3.20191114
+Bundle [51]: com.parasoft.xtest.chart.api, state: [2], version: 10.4.3.20191114
+Bundle [52]: com.parasoft.xtest.common.api, state: [2], version: 10.4.3.20191114
+Bundle [53]: com.parasoft.xtest.common.base, state: [2], version: 10.4.3.20191114
+Bundle [54]: com.parasoft.xtest.common, state: [2], version: 10.4.3.20191114
+Bundle [55]: com.parasoft.xtest.communicator, state: [2], version: 10.4.3.20191114
+Bundle [56]: com.parasoft.xtest.configuration.api, state: [2], version: 10.4.3.20191114
+Bundle [57]: com.parasoft.xtest.configuration, state: [2], version: 10.4.3.20191114
+Bundle [58]: com.parasoft.xtest.coverage.api, state: [2], version: 10.4.3.20191114
+Bundle [59]: com.parasoft.xtest.coverage, state: [2], version: 10.4.3.20191114
+Bundle [60]: com.parasoft.xtest.dupcode.api, state: [2], version: 10.4.3.20191114
+Bundle [61]: com.parasoft.xtest.dupcode, state: [2], version: 10.4.3.20191114
+Bundle [62]: com.parasoft.xtest.flowanalysis.api, state: [2], version: 10.4.3.20191102B1673
+Bundle [63]: com.parasoft.xtest.flowanalysis.common, state: [2], version: 10.4.3.20191102B1673
+Bundle [64]: com.parasoft.xtest.flowanalysis, state: [2], version: 10.4.3.20191102B1673
+Bundle [65]: com.parasoft.xtest.language.api, state: [2], version: 10.4.3.20191102B1673
+Bundle [66]: com.parasoft.xtest.lic.client, state: [2], version: 10.4.3.20191114
+Bundle [67]: com.parasoft.xtest.preference.api, state: [2], version: 10.4.3.20191114
+Bundle [68]: com.parasoft.xtest.reports.api, state: [2], version: 10.4.3.20191114
+Bundle [69]: com.parasoft.xtest.reports, state: [2], version: 10.4.3.20191114
+Bundle [70]: com.parasoft.xtest.repository, state: [2], version: 10.4.3.20191114
+Bundle [71]: com.parasoft.xtest.resource.api, state: [2], version: 10.4.3.20191114
+Bundle [72]: com.parasoft.xtest.results.api, state: [2], version: 10.4.3.20191114
+Bundle [73]: com.parasoft.xtest.results, state: [2], version: 10.4.3.20191114
+Bundle [74]: com.parasoft.xtest.scontrol.api, state: [2], version: 10.4.3.20191114
+Bundle [75]: com.parasoft.xtest.scontrol.tfs, state: [2], version: 10.4.3.20191114
+Bundle [76]: com.parasoft.xtest.scontrol, state: [2], version: 10.4.3.20191114
+Bundle [77]: com.parasoft.xtest.scope.api, state: [2], version: 10.4.3.20191114
+Bundle [78]: com.parasoft.xtest.scope, state: [2], version: 10.4.3.20191114
+Bundle [79]: com.parasoft.xtest.share.api, state: [2], version: 10.4.3.20191114
+Bundle [80]: com.parasoft.xtest.share, state: [2], version: 10.4.3.20191114
+Bundle [81]: com.parasoft.xtest.suppressions, state: [2], version: 10.4.3.20191114
+Bundle [82]: com.parasoft.xtest.techsupport, state: [2], version: 10.4.3.20191114
+Bundle [83]: com.parasoft.xtest.testassist.api, state: [2], version: 10.4.3.20191114
+Bundle [84]: com.parasoft.xtest.testcases.api, state: [2], version: 10.4.3.20191114
+Bundle [85]: com.sun.xml.bind, state: [2], version: 2.2.7
+Bundle [86]: commons-configuration, state: [2], version: 1.9.0
+Bundle [87]: commons-io, state: [2], version: 2.4.0
+Bundle [88]: commons-lang3, state: [2], version: 3.1.0
+Bundle [89]: guava, state: [2], version: 18.0.0
+Bundle [90]: javanet.staxutils, state: [2], version: 1.0.0
+Bundle [91]: javax.activation, state: [2], version: 1.1.1
+Bundle [92]: javax.mail, state: [2], version: 1.5.0
+Bundle [93]: javax.xml.stream, state: [2], version: 1.0.1.v201004272200
+Bundle [94]: javax.xml, state: [2], version: 1.3.4.v201005080400
+Bundle [95]: jaxb-api, state: [2], version: 2.2.7
+Bundle [96]: jsr305, state: [2], version: 2.0.3
+Bundle [97]: jython, state: [2], version: 2.5.3
+Bundle [98]: kryo, state: [2], version: 2.24.0
+Bundle [99]: org.antlr.antlr4-runtime, state: [2], version: 4.7.1
+Bundle [100]: org.apache.commons.io, state: [2], version: 2.2.0
+Bundle [101]: org.apache.commons.logging, state: [2], version: 1.1.3
+Bundle [102]: org.apache.jcs, state: [2], version: 1.3.4
+Bundle [103]: org.codehaus.stax2, state: [2], version: 3.2.4
+Bundle [104]: org.json, state: [2], version: 1.0.0.v201507290100
+Bundle [105]: org.objectweb.asm, state: [2], version: 7.0.0
+Bundle [106]: org.objenesis, state: [2], version: 2.1.0
+Bundle [107]: org.suigeneris.jrcs.diff, state: [2], version: 0.4.2
+Bundle [108]: oro, state: [2], version: 2.0.8
+Bundle [109]: rulewizard, state: [2], version: 1.0.3
+Bundle [110]: xmlpull, state: [2], version: 1.1.3.1
+Bundle [111]: xpp3.min, state: [2], version: 1.1.0.4c
+Bundle [112]: xstream, state: [2], version: 1.4.4
+Bundle [113]: com.parasoft.xtest.reports.fonts, state: [2], version: 10.4.3.20191114
+
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.dtp.DtpAutoconfPreferencesService@5a043941
+CONTEXT: com.parasoft.xtest.common.services.RawConsoleServiceContext@1dfdddc
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    com.parasoft.jtest.globals.analyzer.parallel.processing=true
+    com.parasoft.jtest.globals.analyzer.simultaneous.processing.limit=64
+    configuration.dir.builtin=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/configs/builtin
+    configuration.dir.user=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/configs/user
+    configuration.share.path=/jtest/configs
+    dtp.password=admin
+    dtp.port=8443
+    dtp.server=localhost
+    dtp.user=admin
+    jprofiler.trace.amount=3
+    jprofiler.trace.begin=1
+    jprofiler.trace.filenames.toskip=
+    jtest.analyzer.execution.coverage.show.synthetic.members=false
+    jtest.analyzer.static.dupcode.parser.cache.enabled=true
+    jtest.analyzer.static.dupcode.simultaneous.processing.limit=400
+    jtest.analyzer.static.flow.batch.parse.limit=100
+    jtest.analyzer.static.flow.graphs.parallel.processing=false
+    jtest.analyzer.static.flow.graphs.simultaneous.processing.limit=50
+    jtest.analyzer.static.flow.models.cache.enabled=false
+    jtest.analyzer.static.flow.models.inMemorySize=75
+    jtest.analyzer.static.flow.parallel.processing=true
+    jtest.analyzer.static.flow.parser.java.xast.xmethodbinding.getMethodDeclaration=false
+    jtest.analyzer.static.flow.res.root.dir=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/plugins/builtin/res
+    jtest.analyzer.static.flow.simultaneous.processing.limit=100
+    jtest.analyzer.static.java.group.minutes.timeout=1440
+    jtest.analyzer.static.java.parser.cache.enabled=true
+    jtest.analyzer.static.java.simultaneous.processing.limit=400
+    jtest.analyzer.static.machinelearning.group.minutes.timeout=1440
+    jtest.analyzer.static.machinelearning.parser.cache.enabled=true
+    jtest.analyzer.static.machinelearning.simultaneous.processing.limit=400
+    jtest.analyzer.static.metrics.parallel.processing=true
+    jtest.analyzer.static.metrics.parser.cache.enabled=true
+    jtest.analyzer.static.metrics.simultaneous.processing.limit=400
+    jtest.analyzer.static.prop.parallel.processing=true
+    jtest.analyzer.static.prop.parser.cache.enabled=true
+    jtest.analyzer.static.prop.simultaneous.processing.limit=50
+    jtest.analyzer.static.rulewizard.parallel.processing=true
+    jtest.analyzer.static.rulewizard.parser.cache.enabled=true
+    jtest.analyzer.static.rulewizard.simultaneous.processing.limit=400
+    jtest.analyzer.static.xml.parallel.processing=true
+    jtest.analyzer.static.xml.parser.cache.enabled=true
+    jtest.analyzer.static.xml.simultaneous.processing.limit=50
+    jtest.configuration.dir.builtin9x=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/configs/builtin9x
+    jtest.configuration=builtin://Recommended Rules
+    jtest.context.serialize=true
+    jtest.context.serializepath=${local.storage.dir}/context_tree.log
+    jtest.database.dir=${local.storage.dir}/com.parasoft.jtest.database
+    jtest.database.recreate=false
+    jtest.database.store.threads=1
+    jtest.database.url.suffix=;TRACE_LEVEL_FILE=1;MULTI_THREADED=1;LOCK_TIMEOUT=10000
+    jtest.default.sourcelevel=1.8
+    jtest.globals.filesearch.legacy=false
+    jtest.injected.field.annotations.fxjava=javafx.fxml.FXML
+    jtest.injected.field.annotations.j2ee=javax.inject.Inject,javax.ws.rs.core.Context,javax.annotation.Resource,javax.ws.rs.DefaultValue,javax.ws.rs.QueryParam,javax.ws.rs.PathParam,javax.ws.rs.MatrixParam,javax.ws.rs.CookieParam,javax.ws.rs.HeaderParam,javax.ws.rs.BeanParam,javax.ws.rs.FormParam
+    jtest.injected.field.annotations.jpa=javax.persistence.Basic,javax.persistence.Embedded,javax.persistence.ElementCollection,javax.persistence.PersistenceContext,javax.persistence.Column,javax.persistence.ManyToMany,javax.persistence.ManyToOne,javax.persistence.OneToMany,javax.persistence.OneToOne,javax.persistence.PersistenceUnit
+    jtest.injected.field.annotations.maven=org.apache.maven.plugins.annotations.Parameter,org.apache.maven.plugins.annotations.Component
+    jtest.injected.field.annotations.seam=org.jboss.seam.annotations.In
+    jtest.injected.field.annotations.spring=org.springframework.beans.factory.annotation.Autowired,org.springframework.beans.factory.annotation.Value
+    jtest.injected.field.annotations.struts=com.opensymphony.xwork2.util.CreateIfNull,com.opensymphony.xwork2.inject.Inject
+    jtest.injected.method.annotations.fxjava=javafx.fxml.FXML
+    jtest.injected.method.annotations.j2ee=javax.inject.Inject,javax.ws.rs.core.Context,javax.annotation.Resource,javax.ws.rs.DefaultValue,javax.ws.rs.QueryParam,javax.ws.rs.PathParam,javax.ws.rs.MatrixParam,javax.ws.rs.CookieParam,javax.ws.rs.HeaderParam,javax.ws.rs.BeanParam,javax.ws.rs.FormParam
+    jtest.injected.method.annotations.jpa=javax.persistence.Basic,javax.persistence.Embedded,javax.persistence.ElementCollection,javax.persistence.PersistenceContext,javax.persistence.Column,javax.persistence.ManyToMany,javax.persistence.ManyToOne,javax.persistence.OneToMany,javax.persistence.OneToOne,javax.persistence.PersistenceUnit
+    jtest.injected.method.annotations.maven=
+    jtest.injected.method.annotations.seam=org.jboss.seam.annotations.In,org.jboss.seam.annotations.Logger
+    jtest.injected.method.annotations.spring=org.springframework.beans.factory.annotation.Autowired,org.springframework.beans.factory.annotation.Value
+    jtest.injected.method.annotations.struts=com.opensymphony.xwork2.util.CreateIfNull,com.opensymphony.xwork2.inject.Inject
+    jtest.injected.parameter.annotations.fxjava=
+    jtest.injected.parameter.annotations.j2ee=javax.ws.rs.core.Context,javax.ws.rs.DefaultValue,javax.ws.rs.QueryParam,javax.ws.rs.PathParam,javax.ws.rs.MatrixParam,javax.ws.rs.CookieParam,javax.ws.rs.HeaderParam,javax.ws.rs.BeanParam,javax.ws.rs.FormParam
+    jtest.injected.parameter.annotations.jpa=
+    jtest.injected.parameter.annotations.maven=
+    jtest.injected.parameter.annotations.seam=
+    jtest.injected.parameter.annotations.spring=org.springframework.beans.factory.annotation.Value
+    jtest.injected.parameter.annotations.struts=com.opensymphony.xwork2.inject.Inject
+    jtest.installdir=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest
+    jtest.license.custom_edition_features=Jtest, Static Analysis, Flow Analysis, Automation, Desktop Command Line, Coverage, Unit Test, Change Based Testing, OWASP Rules, CWE Rules, PCI DSS Rules, Security Rules
+    jtest.license.network.edition=custom_edition
+    jtest.license.network.type=ls
+    jtest.license.use_network=true
+    jtest.listconfigs=
+    jtest.parser.ignoreParseErrors=false
+    jtest.parser.includeRunningVMBootclasspath=false
+    jtest.parser.java.batch.parse.limit=1
+    jtest.preanalyze.simultaneous.processing.limit=100
+    jtest.preanalyze.simultaneous.processing.pool=4
+    jtest.rulewizard.dictionaries.dir=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/etc/rulewizard
+    jtest.supported.javaversion=1.3,1.4,1.5,1.6,1.7,1.8,9,10,11
+    jtest.techsupport.include.configuration=true
+    jtest.techsupport.include.coverage.data=true
+    jtest.techsupport.include.coverage=true
+    jtest.techsupport.include.database=false
+    jtest.techsupport.include.metrics=true
+    jtest.techsupport.include.mldata=true
+    jtest.techsupport.include.report=true
+    jtest.techsupport.include.testoutcomes=true
+    jtest.unit.executor.parallel.processing.enable=true
+    jtest.unittest.report.assumption.as.incomplete=false
+    jtest.workspace.dir=C:\Parasoft\examples\demo
+    local.storage.dir=C:\Parasoft\examples\demo/.jtest
+    report.active_rules=true
+    report.assoc.url.pr=http://bugzilla.company.com/show_bug.cgi?id=[%ID%]
+    report.assoc.url.req=http://req.company.com:8443/browse/[%ID%]
+    report.assoc.url.task=http://dtp.company.com:8080/grs/jsf/planning/task/edit_task.jsf?entityId=[%ID%]
+    report.associations=true
+    report.authors_details=false
+    report.contexts_details=true
+    report.developer_errors=true
+    report.developer_reports=false
+    report.format=html
+    report.location=C:\Parasoft\examples\demo/report
+    report.setup.problems=bottom
+    report.test_params=true
+    rule.dir.user=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/user
+    rules.provider_dupcode.analyzer=com.parasoft.jtest.standards.dupcode
+    rules.provider_dupcode.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/dcrules.xml
+    rules.provider_dupcode.id=com.parasoft.jtest.standards.dupcode.rules
+    rules.provider_flowanalysis_builtin.analyzer=com.parasoft.jtest.flowanalyzer
+    rules.provider_flowanalysis_builtin.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/farules.xml
+    rules.provider_flowanalysis_builtin.id=com.parasoft.jtest.flowanalyzer.rules.builtin
+    rules.provider_flowanalysis_builtin.separator=.
+    rules.provider_flowanalysis_external.analyzer=com.parasoft.jtest.flowanalyzer
+    rules.provider_flowanalysis_external.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/external_farules.xml
+    rules.provider_flowanalysis_external.id=com.parasoft.jtest.flowanalyzer.rules.external
+    rules.provider_flowanalysis_external.separator=.
+    rules.provider_java_builtin.analyzer=com.parasoft.jtest.standards.checkers.java
+    rules.provider_java_builtin.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/corerules.xml
+    rules.provider_java_builtin.deprecated=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/deprecated_rules.xml
+    rules.provider_java_builtin.id=com.parasoft.jtest.rules.java.builtin
+    rules.provider_java_builtin.separator=.
+    rules.provider_metric.analyzer=com.parasoft.jtest.standards.metrics.analyzer
+    rules.provider_metric.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/metrics.xml
+    rules.provider_metric.id=com.parasoft.jtest.rules.metrics.builtin
+    rules.provider_metric.separator=.
+    rules.provider_metric.type=metrics
+    rules.provider_prop.analyzer=com.parasoft.jtest.standards.checkers.prop
+    rules.provider_prop.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/proprules.xml
+    rules.provider_prop.id=com.parasoft.jtest.rules.prop.builtin
+    rules.provider_prop.separator=.
+    rules.provider_rulewizard_builtin.analyzer=com.parasoft.jtest.standards.checkers.rulewizard
+    rules.provider_rulewizard_builtin.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/rwrules.xml
+    rules.provider_rulewizard_builtin.directory=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/builtin/
+    rules.provider_rulewizard_builtin.id=com.parasoft.jtest.rules.rulewizard.builtin
+    rules.provider_rulewizard_builtin.mapping=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/builtin/rulemap.xml
+    rules.provider_rulewizard_builtin.separator=.
+    rules.provider_rulewizard_dtp.analyzer=com.parasoft.jtest.standards.checkers.rulewizard
+    rules.provider_rulewizard_dtp.categories=${local.storage.dir}/rules/dtp/categories.properties
+    rules.provider_rulewizard_dtp.data=${local.storage.dir}/rules/dtp/rules.xml
+    rules.provider_rulewizard_dtp.dir=${local.storage.dir}/rules/dtp/
+    rules.provider_rulewizard_dtp.id=com.parasoft.jtest.rules.rulewizard.dtp
+    rules.provider_rulewizard_dtp.mapping=${local.storage.dir}/rules/dtp/rulemap.xml
+    rules.provider_rulewizard_dtp.separator=.
+    rules.provider_rulewizard_dtp.share.url=true
+    rules.provider_rulewizard_team.analyzer=com.parasoft.jtest.standards.checkers.rulewizard
+    rules.provider_rulewizard_team.categories=${local.storage.dir}/rules/team/categories.properties
+    rules.provider_rulewizard_team.data=${local.storage.dir}/rules/team/rules.xml
+    rules.provider_rulewizard_team.dir=${local.storage.dir}/rules/team/
+    rules.provider_rulewizard_team.id=com.parasoft.jtest.rules.rulewizard.team
+    rules.provider_rulewizard_team.mapping=${local.storage.dir}/rules/team/rulemap.xml
+    rules.provider_rulewizard_team.separator=.
+    rules.provider_rulewizard_team.share.path=jtest/rules
+    rules.provider_rulewizard_user.analyzer=com.parasoft.jtest.standards.checkers.rulewizard
+    rules.provider_rulewizard_user.data=${rule.dir.user}/rules.xml
+    rules.provider_rulewizard_user.dir=${rule.dir.user}
+    rules.provider_rulewizard_user.id=com.parasoft.jtest.rules.rulewizard.user
+    rules.provider_rulewizard_user.mapping=${rule.dir.user}/rulemap.xml
+    rules.provider_rulewizard_user.separator=.
+    rules.provider_xml.analyzer=com.parasoft.jtest.standards.checkers.xml
+    rules.provider_xml.data=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/rules/xmlrules.xml
+    rules.provider_xml.id=com.parasoft.jtest.rules.xml.builtin
+    rules.provider_xml.separator=.
+    runtime.command_line=jtestcli -list-configs
+    session.tag=demo
+    settings.rules.file.jtest=C:\Parasoft-packages\parasoft_jtest_10.4.3_win32_x86_64\jtest/etc/settings_rules.properties
+    suppression1.comment=//
+    suppression1.file.ext=java
+    suppression2.block.only=true
+    suppression2.comment=#
+    suppression2.file.ext=properties,mf
+    suppression3.block.only=true
+    suppression3.comment.suffix=-->
+    suppression3.comment=<!--
+    suppression3.file.ext=xml,wsdd,xmi
+    suppression4.block.only=true
+    suppression4.comment.suffix=*/
+    suppression4.comment=/*
+    suppression4.file.ext=java
+    techsupport.create.on.exit=true
+
+DIAGNOSTICS INFO:
+DTP autoconfiguration is not enabled.
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.oidc.OidcService@557e130e
+CONTEXT: com.parasoft.jtest.configuration.internal.osgi.ContextCreator$TemporaryParasoftServiceContext@1ff6a9cf
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+OpenID Connect Service is not enabled.
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.dtp.DtpServiceRegistry@7d20a9e
+CONTEXT: com.parasoft.jtest.configuration.internal.osgi.ContextCreator$TemporaryParasoftServiceContext@1ff6a9cf
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+Connection settings: 
+    User: admin
+    Password: 626079fd67
+    Project: 
+    Server: localhost
+    Port: 8443
+
+Available services: 
+    dataCollectorV2 : https://localhost:8082/api/v2/dataCollector
+    testConfigurationsExtended : https://localhost:8443/grs/api/v1/testConfigurations
+    existingLocalSourceCopy : https://localhost:8082/api/v1/existingLocalSourceCopy
+    rules : https://localhost:8443/grs/api/v1/rules
+    policyCenter : http://localhost:8000
+    tools : https://localhost:8443/grs/api/v1/tools
+    changeExplorer : https://localhost:8443/grs/dtp/explorers/change
+    priorities : https://localhost:8443/grs/api/v1/priorities
+    processIntelligenceEngine : http://localhost:8314
+    staticAnalysisViolations : https://localhost:8443/grs/api/v1/staticAnalysisViolations
+    builds : https://localhost:8443/grs/api/v1/builds
+    metricsExplorer : https://localhost:8443/grs/dtp/explorers/metrics
+    violationsExplorer : https://localhost:8443/grs/dtp/explorers/violations
+    reportedResourcesScmRepositories : https://localhost:8443/grs/api/v1/reportedResourcesScmRepositories
+    localSettings : https://localhost:8443/grs/api/v1/dtpServices/localSettings
+    coverage : https://localhost:8443/grs/api/v1/coverage
+    staticAnalysisViolationsMetadata : https://localhost:8443/grs/api/v1/staticAnalysisViolations/metadata
+    dynamicAnalysisTestCases : https://localhost:8443/grs/api/v1/dynamicAnalysisTestCases
+    resources : https://localhost:8443/grs/api/v1/dtpServices/resources
+    testExplorer : https://localhost:8443/grs/dtp/explorers/test
+    filters : https://localhost:8443/grs/api/v1/filters
+    dataCollector : https://localhost:8082/api/v1/dataCollector
+    coverageExplorer : https://localhost:8443/grs/dtp/explorers/coverage
+    ruleMapResources : https://localhost:8443/grs/api/v1/testConfigurations/ruleMaps/resources
+    license : https://localhost:8443/grs/api/v1/license/token
+    testConfigurations : https://localhost:8443/grs/api/v1/testConfigurations
+    licenseServer : https://localhost:8443/grs/api/v1/dtpServices/licenseServer
+    reportCenter : https://localhost:8443/grs/index.jsp
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.lic.client.internal.service.LicenseService@3cf7c9c4
+CONTEXT: com.parasoft.jtest.configuration.JtestApplicationContext@18c31530
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    jtest.license.custom_edition_features=Jtest, Static Analysis, Flow Analysis, Automation, Desktop Command Line, Coverage, Unit Test, Change Based Testing, OWASP Rules, CWE Rules, PCI DSS Rules, Security Rules
+    jtest.license.enabled=true
+    jtest.license.network.edition=custom_edition
+    jtest.license.network.type=ls
+    jtest.license.use_network=true
+    license.start_deactivated=false
+
+DIAGNOSTICS INFO:
+Registered license definition providers:
+    com.parasoft.jtest.common.license.JtestLicenseDefinitionProvider
+
+License requirements statuses:
++ ---------------------------------- + ------------- +
+| Requirement                        | Enabled/Limit |
++ ---------------------------------- + ------------- +
+| Max-Parallel-Jobs-Value            | -1            |
+| Max-Testables-Value                | -1            |
+| Embedded-Testing                   | false         |
+| Code-Review                        | false         |
+| Security                           | false         |
+| Parameterization                   | false         |
+| Mass-Creation                      | false         |
+| API-Test-Creation                  | false         |
+| Quick-Fix                          | false         |
+| Generate-Recommendations           | false         |
+| Application-Monitoring             | false         |
+| Rule-Wizard                        | false         |
+| Sniffer                            | false         |
+| Max-Unit-Test-Bulk-Testables-Value | false         |
+| Runtime-Error-Detection            | false         |
+| Spring-Framework                   | false         |
+| Self-Healing                       | false         |
+| Native-Tests-Import                | false         |
+| Source-Control                     | true          |
+| Bug-Detective                      | true          |
+| Concerto-Access                    | true          |
+| Enforce-Max-Errors                 | true          |
+| XML-Report-Generation              | true          |
+| Change-Based-Testing               | true          |
+| Unit-Testing                       | true          |
+| DTP-Access                         | true          |
+| Coverage                           | true          |
+| Email-Reports                      | true          |
+| Team-Share-Edit                    | true          |
+| Command-Line-Execution             | true          |
+| Team-Share-Access                  | true          |
+| Team-Share-Results-Upload          | true          |
+| Flow-Analysis-Data                 | true          |
+| Coding-Standards                   | true          |
+| Main                               | true          |
+| Flow-Analysis                      | true          |
++ ---------------------------------- + ------------- +
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.oidc.OidcService@557e130e
+CONTEXT: com.parasoft.jtest.configuration.JtestApplicationContext@18c31530
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+OpenID Connect Service is not enabled.
+
+================================================================================================
+SERVICE: com.parasoft.xtest.share.internal.dtp.DTPSharingRepository@28eeeb8e
+CONTEXT: com.parasoft.jtest.configuration.JtestApplicationContext@18c31530
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    dtp.share.enabled=[undefined]
+
+DIAGNOSTICS INFO:
+    Enabled: false
+    Uri: null
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.share.internal.local.LocalSharingRepository@7d8dad7a
+CONTEXT: com.parasoft.jtest.configuration.JtestApplicationContext@18c31530
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+    Enabled: true
+    Dir: C:\Parasoft\examples\demo\.\.jtest\com.parasoft.xtest.share\local
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.techsupport.TechSupportService@24476f07
+CONTEXT: com.parasoft.jtest.configuration.JtestApplicationContext@18c31530
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    logging.scontrol.verbose=
+    techsupport.archive.location=
+    techsupport.create.on.exit=true
+    techsupport.enabled=
+    techsupport.include.reports=
+    techsupport.single.archive.mode=
+
+DIAGNOSTICS INFO:
+Preferences class: com.parasoft.xtest.techsupport.internal.preferences.TechSupportPreferences
+Current packages dir: C:\Parasoft\examples\demo\.\.jtest\com.parasoft.xtest.techsupport
+Total registered items: 15
+   com.parasoft.jtest.configuration.internal.techsupport.JtestDataJsonTechSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JtestLogsTechSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JtestSettingsSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JtestTestOutcomesTechSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JtestDatabaseSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JTestSetupProblemsTechSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JTestContextTreeTechSupportItem, key: null
+   com.parasoft.jtest.configuration.internal.techsupport.JtestCoverageTechSupportItem, key: null
+   com.parasoft.xtest.reports.internal.ReportsTechSupportItem, name: Report files, key: techsupport.include.reports
+   com.parasoft.xtest.techsupport.internal.EnvironmentTechSupportItem, key: null
+   com.parasoft.xtest.techsupport.internal.LogsTechSupportItem, name: Source control output, key: logging.scontrol.verbose
+   com.parasoft.xtest.techsupport.internal.DiagnosticsTechSupportItem, key: null
+   com.parasoft.xtest.techsupport.internal.ConsoleTechSupportItem, key: null
+   com.parasoft.xtest.techsupport.internal.LicenseTechSupportItem, key: null
+   com.parasoft.xtest.techsupport.internal.TestConfigurationTechSupportItem, key: null
+
+================================================================================================
+PROFILER RESULTS
+================================================================================================
+
+License Profiler
++ --------------------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                                                      | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ --------------------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| LicenseModule.initializeModule                            | 1     | 1.351     | 1.351   | 1.351   | 1.351   |
+| LicenseService.isEnabled[Main]                            | 2     | 0.319     | 0.159   | 0.16    | 0.159   |
+| IntLicManager.getState[jtest!]                            | 3     | 0.318     | 0.0     | 0.159   | 0.106   |
+| IntLicManager.releaseLicenes                              | 1     | 0.172     | 0.172   | 0.172   | 0.172   |
+| IntLicManager.WAIT[ServiceDiagnosticCollector Thread]     | 1     | 0.158     | 0.158   | 0.158   | 0.158   |
+| IntLicManager.activateLicense                             | 1     | 0.158     | 0.158   | 0.158   | 0.158   |
+| IntLicManager.WAIT[Thread-2]                              | 1     | 0.158     | 0.158   | 0.158   | 0.158   |
+| IntLicManager.activateFinished                            | 1     | 0.001     | 0.001   | 0.001   | 0.001   |
+| IntLicManager.getState[jtest! Desktop Command Line]       | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Change Based Testing]       | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Command-Line-Execution]          | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Flow-Analysis]                   | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Team-Share-Access]               | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Flow-Analysis-Data]              | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Mass-Creation]                   | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Team-Share-Results-Upload]       | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! DTP Publish]                | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Flow Analysis]              | 2     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Automation]                 | 2     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Coding-Standards]                | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseServiceModules .statusChanged                      | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Change-Based-Testing]            | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Bug-Detective]                   | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Coverage]                        | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Spring-Framework]                | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.invokeAsyncCallsQueue                       | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Unit Test Bulk Creation]    | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Coverage]                   | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Unit Test Spring Framework] | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Coding Standards]           | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.getState[jtest! Unit Test]                  | 2     | 0.0       | 0.0     | 0.0     | 0.0     |
+| IntLicManager.checkFinished                               | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| LicenseService.isEnabled[Unit-Testing]                    | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
++ --------------------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 2.635s
+
+jtest.controler.profiler.id
++ ---------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                         | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ---------------------------- + ----- + --------- + ------- + ------- + ------- +
+| executeFlow.getConfiguration | 1     | 2.805     | 2.805   | 2.805   | 2.805   |
++ ---------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 2.805s
+
+Async Call Profiler
++ ------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                                        | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| ?                                           | 2     | 0.332     | 0.16    | 0.172   | 0.166   |
+| AsyncCallHandler.startThread                | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| InternalLicenseManager.invokeAsyncCall:1204 | 16    | 0.0       | 0.0     | 0.0     | 0.0     |
++ ------------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.332s
+
+XRest Profiler
++ ------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                                  | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+| /grs/api/v1.6/dtpServices/            | 2     | 1.46      | 0.712   | 0.748   | 0.73    |
+| /grs/api/v1/dtpServices/              | 2     | 1.335     | 0.622   | 0.713   | 0.667   |
+| /grs/api/v1/dtpServices/licenseServer | 16    | 0.199     | 0.008   | 0.021   | 0.012   |
+| /grs/api/v1.6/testConfigurations      | 1     | 0.103     | 0.103   | 0.103   | 0.103   |
++ ------------------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 3.097s
+
+Default Profiler
++ --------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                        | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ --------------------------- + ----- + --------- + ------- + ------- + ------- +
+| SharedConfigManager.refresh | 1     | 0.003     | 0.003   | 0.003   | 0.003   |
++ --------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.003s
+================================================================================================
+SERVICES PROFILER
+================================================================================================
+Services provider profiler (COUNT > 1):
++ ---------------------------------------------- + ----- + --------- +
+| NAME                                           | COUNT | TOTAL [s] |
++ ---------------------------------------------- + ----- + --------- +
+| getServices(IDynamicVariableProvider)          | 4     | 0.001     |
+| getService(IProfilerStatisticsService)         | 5     | 0.001     |
+| getService(ITestConfigurationsService$Factory) | 2     | 0.001     |
+| getServices(IAnalyzerRunnerService)            | 4     | 0.002     |
+| getService(IProxySettingsProviderService)      | 21    | 0.002     |
+| getServices(IPreferenceValidationRules)        | 2     | 0.002     |
+| getService(IProfilerService)                   | 5     | 0.004     |
+| getService(IOidcService)                       | 7     | 0.022     |
+| getService(IApplication)                       | 39    | 0.028     |
+| getService(ILicenseService)                    | 3     | 0.036     |
+| getServices(ITechSupportItemsProviderService)  | 4     | 0.073     |
+| getServices(IPreferences)                      | 23    | 0.089     |
+| getServices(ITestConfigurationDataProvider)    | 2     | 0.939     |
+| getService(IDtpServiceRegistry)                | 5     | 1.646     |
++ ---------------------------------------------- + ----- + --------- +
+TOTAL: 2.846
+================================================================================================
+SERVICES INSTANCES COUNT
+================================================================================================
+
++ -------------------------------------------------------------------------------------------------------------------------- + ----- +
+| Class                                                                                                                      | Count |
++ -------------------------------------------------------------------------------------------------------------------------- + ----- +
+| com.parasoft.xtest.common.profiler.ProfilerService                                                                         | 5     |
+| com.parasoft.xtest.common.dtp.DtpPreferences                                                                               | 3     |
+| com.parasoft.xtest.common.preferences.GeneralPreferences                                                                   | 3     |
+| com.parasoft.xtest.common.dtp.DtpServiceRegistry                                                                           | 2     |
+| com.parasoft.xtest.common.preferences.EnginesPreferences                                                                   | 2     |
+| com.parasoft.xtest.common.preferences.OidcPreferences                                                                      | 2     |
+| com.parasoft.xtest.configuration.internal.BuiltinConfigDataProvider                                                        | 2     |
+| com.parasoft.xtest.configuration.internal.DtpConfigDataProvider                                                            | 2     |
+| com.parasoft.xtest.configuration.internal.SharedConfigDataProvider                                                         | 2     |
+| com.parasoft.xtest.configuration.internal.UserConfigDataProvider                                                           | 2     |
+| com.parasoft.jtest.common.license.JtestLicenseDefinitionProvider                                                           | 1     |
+| com.parasoft.jtest.common.services.JtestContextRelatedDataCollectorServiceFactory$JtestTechSupportDataCollectorServiceImpl | 1     |
+| com.parasoft.jtest.common.variables.ConfigurationVariableProvider                                                          | 1     |
+| com.parasoft.jtest.common.variables.JsonVariableProvider                                                                   | 1     |
+| com.parasoft.jtest.common.variables.WorkspaceVariableProvider                                                              | 1     |
+| com.parasoft.jtest.configuration.internal.RulesParametersUpgradeService                                                    | 1     |
+| com.parasoft.jtest.configuration.internal.TestConfigurationUpgradeService                                                  | 1     |
+| com.parasoft.jtest.configuration.internal.osgi.ConfigurationService                                                        | 1     |
+| com.parasoft.jtest.configuration.internal.techsupport.JtestTechSupportItemsProvider                                        | 1     |
+| com.parasoft.jtest.controller.internal.osgi.JtestcliApplicationService                                                     | 1     |
+| com.parasoft.jtest.database.DatabaseFacade                                                                                 | 1     |
+| com.parasoft.xtest.common.application.OSGiApplication                                                                      | 1     |
+| com.parasoft.xtest.common.console.StdoutConsoleService                                                                     | 1     |
+| com.parasoft.xtest.common.dtp.DtpAutoconfPreferencesService                                                                | 1     |
+| com.parasoft.xtest.common.httpclient.DefaultProxySettingsProvider                                                          | 1     |
+| com.parasoft.xtest.common.localsettings.compatibility.PreferenceCompatibilityRules                                         | 1     |
+| com.parasoft.xtest.common.localsettings.validation.FilePreferenceValidationRules                                           | 1     |
+| com.parasoft.xtest.common.localsettings.validation.PreferenceValidationRules                                               | 1     |
+| com.parasoft.xtest.common.oidc.OidcService                                                                                 | 1     |
+| com.parasoft.xtest.common.profiler.ProfilerStatisticsService                                                               | 1     |
+| com.parasoft.xtest.common.variables.AnalysisTypeVariableProvider                                                           | 1     |
+| com.parasoft.xtest.common.variables.ConfigNameVariableProvider                                                             | 1     |
+| com.parasoft.xtest.common.variables.DtpProjectVariableProvider                                                             | 1     |
+| com.parasoft.xtest.common.variables.DynamicVariablesResolver                                                               | 1     |
+| com.parasoft.xtest.common.variables.EnvironmentVariablesResolver                                                           | 1     |
+| com.parasoft.xtest.common.variables.ExecEnvVariableProvider                                                                | 1     |
+| com.parasoft.xtest.common.variables.GeneralProjectVariableProvider                                                         | 1     |
+| com.parasoft.xtest.common.variables.JvmPropertyVariableProvider                                                            | 1     |
+| com.parasoft.xtest.common.variables.LocalSettingVariableProvider                                                           | 1     |
+| com.parasoft.xtest.common.variables.ProjectModuleVariableProvider                                                          | 1     |
+| com.parasoft.xtest.common.variables.ScontrolBranchVariableProvider                                                         | 1     |
+| com.parasoft.xtest.common.variables.StaticVariablesResolver                                                                | 1     |
+| com.parasoft.xtest.common.variables.ToolNameVariableProvider                                                               | 1     |
+| com.parasoft.xtest.common.variables.UserNameVariableProvider                                                               | 1     |
+| com.parasoft.xtest.configuration.TestConfigurationsServiceFactory                                                          | 1     |
+| com.parasoft.xtest.configuration.internal.UrlConfigDataProvider                                                            | 1     |
+| com.parasoft.xtest.flowanalysis.common.config.PreferenceValidationRules                                                    | 1     |
+| com.parasoft.xtest.lic.client.LicenseNetworkAdvancedPreferences                                                            | 1     |
+| com.parasoft.xtest.lic.client.LicensePreferences                                                                           | 1     |
+| com.parasoft.xtest.lic.client.internal.service.LicenseService                                                              | 1     |
+| com.parasoft.xtest.reports.internal.ReportsTechSupportItemsProvider                                                        | 1     |
+| com.parasoft.xtest.share.internal.dtp.DTPSharingRepository                                                                 | 1     |
+| com.parasoft.xtest.share.internal.local.LocalSharingRepository                                                             | 1     |
+| com.parasoft.xtest.techsupport.CommonTechSupportItemsProvider                                                              | 1     |
+| com.parasoft.xtest.techsupport.TechSupportService                                                                          | 1     |
+| com.parasoft.xtest.techsupport.internal.preferences.TechSupportPreferences                                                 | 1     |
++ -------------------------------------------------------------------------------------------------------------------------- + ----- +

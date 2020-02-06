@@ -1,0 +1,53 @@
+License: Machine id WIN32-26aeb40f
+Available test configurations: 51
+  builtin://Calculate Application Coverage
+  builtin://CERT for Java
+  builtin://Code Smells
+  builtin://Critical Rules
+  builtin://CWE 3.4
+  builtin://CWE Top 25 + On the Cusp 2019
+  builtin://CWE Top 25 2019
+  builtin://Demo Configuration
+  builtin://Find Duplicated Code
+  builtin://Find Memory Problems
+  builtin://Find Unused Code
+  builtin://Flow Analysis Aggressive
+  builtin://Flow Analysis Fast
+  builtin://Flow Analysis Standard
+  builtin://Internationalize Code
+  builtin://JUnit 4 Best Practices
+  builtin://JUnit 5 Best Practices
+  builtin://Metrics
+  builtin://OWASP Top 10-2017
+  builtin://PCI DSS 3.2
+  builtin://Recommended Rules
+  builtin://TDD Best Practices
+  builtin://Thread Safe Programming
+  builtin://UL 2900
+  builtin://Unit Tests
+  c++test.dtp://CWE SANS Top 25 Most Dangerous Software Errors
+  c++test.dtp://Find Duplicated Code
+  c++test.dtp://Joint Strike Fighter
+  c++test.dtp://Metrics
+  c++test.dtp://MISRA C 2012
+  c++test.dtp://Modern C++ (11, 14 and 17)
+  c++test.dtp://OWASP Top 10 Security Vulnerabilities
+  c++test.dtp://Payment Card Industry Data Security Standard
+  c++test.dtp://Recommended Rules
+  c++test.dtp://SAMATE Annex A Source Code Weaknesses
+  dottest.dtp://CWE-SANS Top 25 Most Dangerous Programming Errors
+  dottest.dtp://Find Duplicated Code
+  dottest.dtp://Metrics
+  dottest.dtp://NIST SAMATE
+  dottest.dtp://OWASP Top 10 Security Vulnerabilities
+  dottest.dtp://OWASP Top 10 Security Vulnerabilities - Harris Standards
+  dottest.dtp://Recommended Rules
+  jtest.dtp://CWE-SANS Top 25 2011
+  jtest.dtp://CWE-SANS Top 25 2011 - Millers Favorites
+  jtest.dtp://DISA-STIG for Java
+  jtest.dtp://Find Duplicated Code
+  jtest.dtp://Metrics
+  jtest.dtp://OWASP Top 10 2013
+  jtest.dtp://Recommended Rules
+  jtest.dtp://Unit Tests
+  user://Unit Tests + Recommended Rules

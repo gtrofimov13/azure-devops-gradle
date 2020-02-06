@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 19 09:59:29 CEST 2016
+junit-4.12.pom>builder-nexus=
+junit-4.12.jar>central=
+junit-4.12.jar>builder-nexus=
+junit-4.12.pom>central=
+junit-4.12.jar>ParasoftNexusRepoPL=
+junit-4.12.pom>ParasoftNexusRepoPL=

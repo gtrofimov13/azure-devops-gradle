@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 17 10:25:05 CEST 2016
+powermock-module-junit4-1.5.5.jar>central=
+powermock-module-junit4-1.5.5.pom>central=
+powermock-module-junit4-1.5.5.pom>builder-nexus=
+powermock-module-junit4-1.5.5.jar>builder-nexus=
